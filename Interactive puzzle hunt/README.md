@@ -53,4 +53,4 @@ http:127.0.0.1:5000/
 
 You should now see the home page of the Flask app.
 ## Credits
-This app was created by J Prem. If you have any questions or suggestions, please feel free to contact me at divyanshsharmna@gmail.com.
+This app was created by Divyansh. If you have any questions or suggestions, please feel free to contact me at divyanshsharmna@gmail.com.
