@@ -1,8 +1,8 @@
 # Soft-Skills-Hunt
-Elitmus Assignment - Soft Skills Hunt
+Elitmus Assignment - Interactive Puzzle Hunt
 
 ## Description
-Soft Skills Hunt is an application to assess one's softskills. Below instructions demonstrates how to run this web application with Flask.
+An application called Soft abilities Hunt is used to evaluate one's soft abilities. How to use Flask to execute this web application is shown in the steps below.
 
 ## Installation
 Clone the repository to your local machine using the command:
@@ -53,4 +53,4 @@ http:127.0.0.1:5000/
 
 You should now see the home page of the Flask app.
 ## Credits
-This app was created by J Prem. If you have any questions or suggestions, please feel free to contact me at premj801@gmail.com.
+This app was created by J Prem. If you have any questions or suggestions, please feel free to contact me at divyanshsharmna@gmail.com.
