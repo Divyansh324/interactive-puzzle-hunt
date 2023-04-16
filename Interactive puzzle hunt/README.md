@@ -7,11 +7,11 @@ An application called Soft abilities Hunt is used to evaluate one's soft abiliti
 ## Installation
 Clone the repository to your local machine using the command:
 ```console
-$ https://github.com/Prem-Jain/Soft-Skills-Hunt.git
+$ https://github.com/Divyansh324/interactive-puzzle-hunt.git
 ```
 
 ```console
-$ cd Soft-Skills-Hunt
+$ cd interactive-puzzle-hunt
 ```
 
 ### Create a virtual environment:
